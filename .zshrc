@@ -1,11 +1,11 @@
 #------------------------------------------------------------------#
-# File:     .zshrc   ZSH resource file                             #
-# Version:  0.1.16                                                 #
-# Author:   Øyvind "Mr.Elendig" Heggstad <mrelendig@har-ikkje.net> #
+# File:.zshrc ZSH Config File                                      #
+# Version:  1.0.1                                                  #
+# Author:   David Saavedra "muskratt" <chukymaster@gmail.com>      #
 #------------------------------------------------------------------#
 
 #------------------------------
-# History stuff
+# History Settings
 #------------------------------
 HISTFILE=~/.histfile
 HISTSIZE=1000
